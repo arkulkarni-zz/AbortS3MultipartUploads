@@ -7,4 +7,4 @@
 ## Instructions
 Set up aws cli with your credentials properly
 
-Change the <bucket-name> to your S3 bucket
+Change the <bucket-name> to your S3 bucket and run the ps1 file
